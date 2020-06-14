@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-@1ndianl33t-blue.svg)](https://twitter.com/1ndianl33t)
 
-[ All-in-one_Recon-by_@1ndianl33t ](https://drive.google.com/file/d/1uBTra6_jwhLnZALJVp9hmHaty2pBBUH2/view?usp=drivesdk)
+[ All-in-one_slides-by_@1ndianl33t ](https://drive.google.com/file/d/1uBTra6_jwhLnZALJVp9hmHaty2pBBUH2/view?usp=drivesdk)
 
 [![Twitter](https://img.shields.io/badge/twitter-@NahamSec-blue.svg)](https://twitter.com/NahamSec)
 
