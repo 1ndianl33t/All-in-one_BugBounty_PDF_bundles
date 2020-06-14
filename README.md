@@ -1,5 +1,11 @@
 
 # All-in-one_BugBounty_PDF_bundles
+### All-in-one_PDF
+
+[![Twitter](https://img.shields.io/badge/twitter-@1ndianl33t-blue.svg)](https://twitter.com/1ndianl33t)
+
+[ All-in-one_Recon-by_@1ndianl33t ](https://drive.google.com/file/d/1uBTra6_jwhLnZALJVp9hmHaty2pBBUH2/view?usp=drivesdk)
+
 
 # NahamCon2020 All slides (13/06/2020 ==> 14/06/2020)
 
