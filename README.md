@@ -6,6 +6,10 @@
 
 [ All-in-one_Recon-by_@1ndianl33t ](https://drive.google.com/file/d/1uBTra6_jwhLnZALJVp9hmHaty2pBBUH2/view?usp=drivesdk)
 
+[![Twitter](https://img.shields.io/badge/twitter-@NahamSec-blue.svg)](https://twitter.com/NahamSec)
+
+[ VirSecCon-All-in-one_Recon-by_@1ndianl33t ](https://drive.google.com/file/d/1sbqEQxOGeHeKQCh8JbAhElN6PLYBS7zZ/view?usp=drivesdk)
+
 
 # NahamCon2020 All slides (13/06/2020 ==> 14/06/2020)
 
