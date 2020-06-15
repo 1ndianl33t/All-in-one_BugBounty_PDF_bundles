@@ -16,6 +16,7 @@
 ### Slides
 
 [![Twitter](https://img.shields.io/badge/twitter-@jhaddix-blue.svg)](https://twitter.com/jhaddix)
+
 [ The Bug Hunter’s Methodology v4
 Recon ](https://drive.google.com/file/d/1aG_qqRvNW-s5_8vvPk5rJiMSMeNL2uY9/view?usp=drivesdk)
 
